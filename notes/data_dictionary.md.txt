@@ -1,0 +1,20 @@
+# Data Dictionary
+
+| Field | Description | Unit |
+|---|---|---|
+| year | Fiscal year | Year |
+| revenue | Net revenue | VND billion |
+| gross_profit | Gross profit | VND billion |
+| profit_after_tax | Profit after tax | VND billion |
+| gross_margin | Gross profit divided by revenue | % |
+| net_margin | Profit after tax divided by revenue | % |
+| selling_expense | Selling expenses | VND billion |
+| admin_expense | Administrative expenses | VND billion |
+| inventory | Inventory balance | VND billion |
+| receivables | Accounts receivable | VND billion |
+| payables | Accounts payable | VND billion |
+| operating_cash_flow | Operating cash flow | VND billion |
+| target_revenue | Management revenue target | VND billion |
+| target_profit_after_tax | Management profit after tax target | VND billion |
+| revenue_achievement | Actual revenue divided by target revenue | % |
+| pat_achievement | Actual profit after tax divided by target profit after tax | % |

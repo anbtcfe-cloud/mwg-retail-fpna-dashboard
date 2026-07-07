@@ -1,0 +1,25 @@
+# Methodology
+
+## 1. Data Collection
+Financial data was collected from MWG's audited consolidated financial statements, annual reports, and management business plan disclosures.
+
+## 2. Data Processing
+Raw financial data was manually extracted and standardized into structured Excel tables. Metrics were checked across years to ensure consistency in units and classification.
+
+## 3. Financial Metrics
+The dashboard focuses on:
+- Revenue and profit after tax trend
+- Gross margin and net margin
+- Selling and administrative expense ratios
+- Actual vs management plan performance
+- Working capital components
+- Operating cash flow quality
+
+## 4. Power BI Dashboard
+The Power BI dashboard includes three pages:
+1. Executive Summary
+2. Actual vs Plan
+3. Working Capital & Cash Flow
+
+## 5. Design Logic
+KPI cards and summary charts use VND trillion for readability, while detailed tables retain VND billion for precision.

@@ -1,0 +1,19 @@
+# Source Log
+
+## Company
+Mobile World Investment Corporation (MWG)
+
+## Data Sources
+- Audited consolidated financial statements, 2021–2025
+- Annual reports, 2021–2025
+- Management business plan documents, 2025–2026
+
+## Data Scope
+- Financial performance: revenue, gross profit, profit after tax, margins
+- Actual vs plan: 2025 actual performance and 2026 management targets
+- Working capital and cash flow: inventory, receivables, payables, operating cash flow
+
+## Unit
+- Detailed financial tables: VND billion
+- KPI cards and summary charts: VND trillion
+- Ratios: percentage
