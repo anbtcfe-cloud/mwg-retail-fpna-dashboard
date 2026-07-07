@@ -22,19 +22,19 @@ The project aims to:
 
 This page provides an overview of MWG's revenue, profit after tax, gross margin, net margin, and expense ratio trends.
 
-![Executive Summary](images/dashboard_screenshots/01_executive_summary.png)
+![Executive Summary](images/dashboard_screenshots/01_executive_summary.png,png)
 
 ### 3.2 Actual vs Plan
 
 This page compares MWG's 2025 actual performance against management targets and presents 2026 forward targets.
 
-![Actual vs Plan](images/dashboard_screenshots/02_actual_vs_plan.png)
+![Actual vs Plan](images/dashboard_screenshots/02_actual_vs_plan.png.png)
 
 ### 3.3 Working Capital & Cash Flow
 
 This page analyzes inventory, receivables, payables, operating cash flow, and working capital ratios.
 
-![Working Capital & Cash Flow](images/dashboard_screenshots/03_working_capital_cash_flow.png)
+![Working Capital & Cash Flow](images/dashboard_screenshots/03_working_capital_cash_flow.png.png)
 
 ## 4. Key Insights
 
